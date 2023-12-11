@@ -116,5 +116,23 @@
             integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
             crossorigin="anonymous">
     </script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script>
+      // On document load
+      $(document).ready(function() {
+        // Fetch header
+        $.ajax({
+          url: "./html/header.html",
+          type: "GET",
+          cache: false,
+          success: function(data) {
+            console.log(data);
+          },
+          error: function(error) {
+            console.error("Error fetching data:", error);
+          }
+        });
+      });
+    </script>
   </body>
 </html>
