@@ -12,7 +12,7 @@ $(document).ready(function() {
 
         // Loop over navigation links
         if (name == "header") {
-          $(".navbar-nav").children(".nav-item").each(function(index, element) {
+          $(".navbar-nav").children(".nav-item").each(function (index, element) {
             // Ger current page
             let currentPage = window.location.href.split(".html")[0].split("/");
             currentPage = currentPage[currentPage.length-1].toUpperCase().replace("INDEX", "HOME");
