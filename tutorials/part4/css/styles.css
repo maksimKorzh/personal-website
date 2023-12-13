@@ -1,0 +1,4 @@
+.btn-nav { background-color: #FFF; color: #777; font-size: 12px; }
+.btn-nav:hover { background-color: #c6cfea; color: #000; }
+.btn-nav-active { background-color: #c6cfea; color: #000; }
+.btn-nav:active { --bs-btn-active-bg: #b6bfda; --bs-btn-active-border-color: #b6bfda}

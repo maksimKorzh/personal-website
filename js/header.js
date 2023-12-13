@@ -8,13 +8,13 @@ function renderElement(url, name) {
       // Render element
       $(name).append(data);
 
+      // Get current tab name
+      let currentTab = window.location.href.split(".html")[0].split("/");
+      currentTab = currentTab[currentTab.length-1].toUpperCase().replace("INDEX", "HOME");
+
       // Highlight current tab
       if (name == "header") {
         $(".navbar-nav").children(".nav-item").each(function(index, element){
-          // Get current tab name
-          let currentTab = window.location.href.split(".html")[0].split("/");
-          currentTab = currentTab[currentTab.length-1].toUpperCase().replace("INDEX", "HOME");
-
           // Get current tab link 
           let tabLink = $($(element).children()[0]);
 
