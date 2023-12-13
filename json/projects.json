@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "name": "KIM 1 emulator",
+      "description": "Online emulator of famous KIM-1 single board computer based on 6502 CPU",
+      "video_url": "https://www.youtube.com/watch?v=M2Lm6UH9SOE&list=PLLfIBXQeu3abGNB-GZY7rqGM5SbcKGcdW&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/KIM-1"
+    },
+    {
+      "name": "8-bit breadboard computer",
+      "description": "Ben Eater's 8-bit breadboard computer emulator",
+      "video_url": "https://www.youtube.com/watch?v=NiJ-_Xt9KRo&list=PLLfIBXQeu3ab2vTdu0aFoTUojsPWFSU3p&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/msmd-linux"
+    },
+    {
+      "name": "CMK computer",
+      "description": "Arduino based emulator of the 8-bit machine with a customly designed CPU",
+      "video_url": "https://www.youtube.com/watch?v=Rvx2P4ulBlA&list=PLLfIBXQeu3aaMjeyPxJzT34DAG6v1vQqq&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/cmk-computer-2"
+    }
+  ],
+  [
+    {
+      "name": "BASIC Interpreter",
+      "description": "BASIC programming language interpreter in Python",
+      "video_url": "https://www.youtube.com/watch?v=hK2OxjhH3dw&list=PLLfIBXQeu3aaEgJeLEcVXP6TNOCifY1CM&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/BASIC"
+    },
+    {
+      "name": "Text Editor",
+      "description": "Terminal based text editor with Linux ED command set",
+      "video_url": "https://www.youtube.com/watch?v=mVFXBZUBe2s&list=PLLfIBXQeu3aa0NI4RT5OuRQsLo6gtLwGN&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/ego"
+    },
+    {
+      "name": "File Manager",
+      "description": "Terminal based file manager inspired by Norton Commander",
+      "video_url": "vgbg3T5VWbQ",
+      "source_code": "https://github.com/maksimKorzh/fm"
+    }
+  ],
+  [
+    {
+      "name": "Raycasting Engine",
+      "description": "Wolfenstein 3D like environment that runs completely in web browser",
+      "video_url": "https://www.youtube.com/watch?v=ssm2jMd40p4&list=PLLfIBXQeu3abu3JLlTLLSn9ctV1t2YnkW&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/wolfenstein-js"
+    },
+    {
+      "name": "Tetris",
+      "description": "Simple game of Tetris that runs completely in web browser",
+      "video_url": "https://www.youtube.com/watch?v=Vl6ewtCjn20&list=PLLfIBXQeu3aZNw6GgtCAAvM09u5zTL-My&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/tetris"
+    },
+    {
+      "name": "Sokoban",
+      "description": "A game of Sokoban in 512 bytes that fits into Boot Sector",
+      "video_url": "https://www.youtube.com/watch?v=6h5QM_bwBhs&list=PLLfIBXQeu3aZuUQIQeHBDr56FQ-gGQ1E2&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/boot-games/tree/main/src/sokoban"
+    }
+  ],
+  [
+    {
+      "name": "Game OS",
+      "description": "Real Mode x86 operating system to run Boot Sector games",
+      "video_url": "https://www.youtube.com/watch?v=L5huryha7zA&list=PLLfIBXQeu3aZCod5V6FWRNkeLiFAizR3g&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/GameOS"
+    },
+    {
+      "name": "WLAN Touchpad",
+      "description": "Control your PC/Laptop using smartphone as a touchpad",
+      "video_url": "https://www.youtube.com/watch?v=sk2pwRER38w&list=PLLfIBXQeu3aaExkcG0vbgUxKMagyJPUz_&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/smartphone-remote-control"
+    },
+    {
+      "name": "Monkey See, Monkey Do LINUX",
+      "description": "Custom linux distro with graphical desktop built from sources",
+      "video_url": "https://www.youtube.com/watch?v=EVTw4YqPdKA&list=PLLfIBXQeu3aZuc_0xTE2dY3juntHF5xJY",
+      "source_code": "https://github.com/maksimKorzh/msmd-linux"
+    }
+  ]
+]
