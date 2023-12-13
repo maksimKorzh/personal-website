@@ -30,6 +30,6 @@ function renderElement(url, name) {
 // On document load
 $(document).ready(function() {
   // Load header & footer
-  renderElement('/html/header.html', 'header');
-  renderElement('/html/footer.html', 'footer');
+  renderElement('/personal-website/html/header.html', 'header');
+  renderElement('/personal-website/html/footer.html', 'footer');
 });
