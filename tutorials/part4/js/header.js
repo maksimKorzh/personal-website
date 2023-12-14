@@ -29,6 +29,6 @@ $(document).ready(function() {
     });
   }
   // Render header & footer
-  renderElement("/html/header.html", "header")
-  renderElement("/html/footer.html", "footer")
+  renderElement("/html/header.html", "header");
+  renderElement("/html/footer.html", "footer");
 });
