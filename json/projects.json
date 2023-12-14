@@ -41,6 +41,26 @@
   ],
   [
     {
+      "name": "6502 Chess",
+      "description": "A chess engine in 6502 assembly in under 1K of binary executable size",
+      "video_url": "https://www.youtube.com/watch?v=POTjQXYuv7I&list=PLmN0neTso3JwdHRU2W4sit0xOK7P-LRMS&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/6502-chess"
+    },
+    {
+      "name": "Toyfish",
+      "description": "Beginner's guide on how to write your very first chess program in Python",
+      "video_url": "https://www.youtube.com/watch?v=ZDhFHrHG-hY&list=PLmN0neTso3JyHJ4YqTo4IT8LPm4laNhZ5&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/toyfish"
+    },
+    {
+      "name": "BBC",
+      "description": "Bitboard Chess Engine in C covered in 95 video series on YouTube",
+      "video_url": "https://www.youtube.com/watch?v=QUNP-UjujBM&list=PLmN0neTso3Jxh8ZIylk74JpwfiWNI76Cs&pp=gAQBiAQB",
+      "source_code": "https://github.com/maksimKorzh/bbc"
+    }
+  ],
+  [
+    {
       "name": "Raycasting Engine",
       "description": "Wolfenstein 3D like environment that runs completely in web browser",
       "video_url": "https://www.youtube.com/watch?v=ssm2jMd40p4&list=PLLfIBXQeu3abu3JLlTLLSn9ctV1t2YnkW&pp=gAQBiAQB",
