@@ -14,7 +14,7 @@
     },
     {
       "name": "CMK computer",
-      "description": "Arduino based emulator of the 8-bit machine with a customly designed CPU",
+      "description": "Arduino based emulator of the 8-bit machine with a custom designed CPU",
       "video_url": "https://www.youtube.com/watch?v=Rvx2P4ulBlA&list=PLLfIBXQeu3aaMjeyPxJzT34DAG6v1vQqq&pp=gAQBiAQB",
       "source_code": "https://github.com/maksimKorzh/cmk-computer-2"
     }
